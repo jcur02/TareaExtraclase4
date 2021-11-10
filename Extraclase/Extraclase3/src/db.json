@@ -1,0 +1,18 @@
+[
+    {
+        "course": "Taller de Programacion",
+        "code": 1,
+        "grade": 75
+    },
+    {
+        "course": "Fisica General 1",
+        "code": 2,
+        "grade": 80
+    },
+    {
+        "course": "Calculo",
+        "code": 3,
+        "grade": 70
+    }
+
+]
